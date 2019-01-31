@@ -29,7 +29,7 @@ class dnp3_mapping():
     def dump_json(self,out_json,out_file):
    	with open(out_file, 'w') as fp:
 	    out_dict= dict({'points':out_json})
-	    json.dump(out_dict,fp)
+	    json.dump(out_dict,fp, indent =2, sort_keys=True)
 
     def _create_cim_object_map(self):
 	feeders = self.file_dict.get("feeders",[])
