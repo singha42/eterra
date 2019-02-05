@@ -1,6 +1,7 @@
 {
   "points": [
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Power,PowerTransformer and phase is B", 
       "group": 42, 
@@ -11,6 +12,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "BO", 
       "description": "Equipment is LinearShuntCompensator_cap1,LinearShuntCompensator and phase is B", 
       "group": 11, 
@@ -21,6 +23,7 @@
       "variation": 1
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632670_Power,ACLineSegment and phase is B", 
       "group": 42, 
@@ -31,6 +34,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_645646_Voltage,ACLineSegment and phase is C", 
       "group": 42, 
@@ -41,6 +45,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Power,PowerTransformer and phase is B", 
       "group": 42, 
@@ -51,6 +56,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_645,EnergyConsumer and phase is B", 
       "group": 42, 
@@ -61,6 +67,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_671,EnergyConsumer and phase is B", 
       "group": 42, 
@@ -71,6 +78,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_BatteryUnit_school_Cells,PowerElectronicsConnection and phase is C", 
       "group": 42, 
@@ -81,6 +89,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LoadBreakSwitch_671692_Voltage,LoadBreakSwitch and phase is C", 
       "group": 42, 
@@ -91,6 +100,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "BO", 
       "description": "Equipment is RatioTapChanger_Reg,PowerTransformer and phase is A", 
       "group": 11, 
@@ -101,6 +111,7 @@
       "variation": 1
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_684652_Power,ACLineSegment and phase is A", 
       "group": 42, 
@@ -111,6 +122,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_xfm1_Power,PowerTransformer and phase is B", 
       "group": 42, 
@@ -121,6 +133,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LinearShuntCompensator_cap1,LinearShuntCompensator and phase is A", 
       "group": 42, 
@@ -131,6 +144,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "BO", 
       "description": "Equipment is LinearShuntCompensator_cap2,LinearShuntCompensator and phase is C", 
       "group": 11, 
@@ -141,6 +155,7 @@
       "variation": 1
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LinearShuntCompensator_cap1,LinearShuntCompensator and phase is C", 
       "group": 42, 
@@ -151,6 +166,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632645_Voltage,ACLineSegment and phase is C", 
       "group": 42, 
@@ -161,6 +177,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632645_Voltage,ACLineSegment and phase is B", 
       "group": 42, 
@@ -171,6 +188,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_670c,EnergyConsumer and phase is C", 
       "group": 42, 
@@ -181,6 +199,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Voltage,PowerTransformer and phase is A", 
       "group": 42, 
@@ -191,6 +210,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Power,PowerTransformer and phase is C", 
       "group": 42, 
@@ -201,6 +221,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Voltage,PowerTransformer and phase is C", 
       "group": 42, 
@@ -211,6 +232,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Power,PowerTransformer and phase is A", 
       "group": 42, 
@@ -221,6 +243,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632633_Voltage,ACLineSegment and phase is A", 
       "group": 42, 
@@ -231,6 +254,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_xfm1_Power,PowerTransformer and phase is A", 
       "group": 42, 
@@ -241,6 +265,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_BatteryUnit_house_Cells,PowerElectronicsConnection and phase is s1", 
       "group": 42, 
@@ -251,6 +276,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_BatteryUnit_school_Cells,PowerElectronicsConnection and phase is B", 
       "group": 42, 
@@ -261,6 +287,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_684652_Voltage,ACLineSegment and phase is A", 
       "group": 42, 
@@ -271,6 +298,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_671,EnergyConsumer and phase is B", 
       "group": 42, 
@@ -281,6 +309,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "BO", 
       "description": "Equipment is RatioTapChanger_Reg,PowerTransformer and phase is B", 
       "group": 11, 
@@ -291,6 +320,7 @@
       "variation": 1
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LoadBreakSwitch_671692_Voltage,LoadBreakSwitch and phase is C", 
       "group": 42, 
@@ -301,6 +331,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_PhotovoltaicUnit_school_PVPanels,PowerElectronicsConnection and phase is A", 
       "group": 42, 
@@ -311,6 +342,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_BatteryUnit_house_Cells,PowerElectronicsConnection and phase is s1", 
       "group": 42, 
@@ -321,6 +353,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "BO", 
       "description": "Equipment is LinearShuntCompensator_cap1,LinearShuntCompensator and phase is A", 
       "group": 11, 
@@ -331,6 +364,7 @@
       "variation": 1
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632633_Power,ACLineSegment and phase is C", 
       "group": 42, 
@@ -341,6 +375,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632633_Voltage,ACLineSegment and phase is B", 
       "group": 42, 
@@ -351,6 +386,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_670c,EnergyConsumer and phase is C", 
       "group": 42, 
@@ -361,6 +397,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632645_Power,ACLineSegment and phase is C", 
       "group": 42, 
@@ -371,6 +408,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_675a,EnergyConsumer and phase is A", 
       "group": 42, 
@@ -381,6 +419,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_671680_Voltage,ACLineSegment and phase is A", 
       "group": 42, 
@@ -391,6 +430,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_670671_Power,ACLineSegment and phase is A", 
       "group": 42, 
@@ -401,6 +441,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_670b,EnergyConsumer and phase is B", 
       "group": 42, 
@@ -411,6 +452,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_671680_Voltage,ACLineSegment and phase is B", 
       "group": 42, 
@@ -421,6 +463,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632633_Voltage,ACLineSegment and phase is C", 
       "group": 42, 
@@ -431,6 +474,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632633_Voltage,ACLineSegment and phase is B", 
       "group": 42, 
@@ -441,6 +485,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_671,EnergyConsumer and phase is A", 
       "group": 42, 
@@ -451,6 +496,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_PhotovoltaicUnit_house_PVPanels,PowerElectronicsConnection and phase is s1", 
       "group": 42, 
@@ -461,6 +507,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_650632_Voltage,ACLineSegment and phase is B", 
       "group": 42, 
@@ -471,6 +518,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Voltage,PowerTransformer and phase is A", 
       "group": 42, 
@@ -481,6 +529,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Power,PowerTransformer and phase is C", 
       "group": 42, 
@@ -491,6 +540,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_671680_Power,ACLineSegment and phase is C", 
       "group": 42, 
@@ -501,6 +551,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Voltage,PowerTransformer and phase is B", 
       "group": 42, 
@@ -511,6 +562,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_645646_Power,ACLineSegment and phase is C", 
       "group": 42, 
@@ -521,6 +573,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_652,EnergyConsumer and phase is A", 
       "group": 42, 
@@ -531,6 +584,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LinearShuntCompensator_cap2,LinearShuntCompensator and phase is C", 
       "group": 42, 
@@ -541,6 +595,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_671680_Voltage,ACLineSegment and phase is C", 
       "group": 42, 
@@ -551,6 +606,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_PhotovoltaicUnit_school_PVPanels,PowerElectronicsConnection and phase is B", 
       "group": 42, 
@@ -561,6 +617,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_634c,EnergyConsumer and phase is C", 
       "group": 42, 
@@ -571,6 +628,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LoadBreakSwitch_671692_Current,LoadBreakSwitch and phase is B", 
       "group": 42, 
@@ -581,6 +639,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_670b,EnergyConsumer and phase is B", 
       "group": 42, 
@@ -591,6 +650,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_PhotovoltaicUnit_house_PVPanels,PowerElectronicsConnection and phase is s2", 
       "group": 42, 
@@ -601,6 +661,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_611,EnergyConsumer and phase is C", 
       "group": 42, 
@@ -611,6 +672,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632670_Power,ACLineSegment and phase is A", 
       "group": 42, 
@@ -621,6 +683,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_671684_Voltage,ACLineSegment and phase is A", 
       "group": 42, 
@@ -631,6 +694,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_634a,EnergyConsumer and phase is A", 
       "group": 42, 
@@ -641,6 +705,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_PhotovoltaicUnit_school_PVPanels,PowerElectronicsConnection and phase is C", 
       "group": 42, 
@@ -651,6 +716,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LinearShuntCompensator_cap1,LinearShuntCompensator and phase is B", 
       "group": 42, 
@@ -661,6 +727,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LinearShuntCompensator_cap1,LinearShuntCompensator and phase is C", 
       "group": 42, 
@@ -671,6 +738,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_PhotovoltaicUnit_house_PVPanels,PowerElectronicsConnection and phase is s1", 
       "group": 42, 
@@ -681,6 +749,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Power,PowerTransformer and phase is C", 
       "group": 42, 
@@ -691,6 +760,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Voltage,PowerTransformer and phase is C", 
       "group": 42, 
@@ -701,6 +771,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_PhotovoltaicUnit_house_PVPanels,PowerElectronicsConnection and phase is s2", 
       "group": 42, 
@@ -711,6 +782,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LoadBreakSwitch_671692_Voltage,LoadBreakSwitch and phase is A", 
       "group": 42, 
@@ -721,6 +793,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_670671_Power,ACLineSegment and phase is B", 
       "group": 42, 
@@ -731,6 +804,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_671680_Power,ACLineSegment and phase is A", 
       "group": 42, 
@@ -741,6 +815,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_652,EnergyConsumer and phase is A", 
       "group": 42, 
@@ -751,6 +826,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_675b,EnergyConsumer and phase is B", 
       "group": 42, 
@@ -761,6 +837,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_xfm1_Power,PowerTransformer and phase is B", 
       "group": 42, 
@@ -771,6 +848,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632633_Power,ACLineSegment and phase is B", 
       "group": 42, 
@@ -781,6 +859,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Voltage,PowerTransformer and phase is A", 
       "group": 42, 
@@ -791,6 +870,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_645646_Power,ACLineSegment and phase is B", 
       "group": 42, 
@@ -801,6 +881,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Power,PowerTransformer and phase is A", 
       "group": 42, 
@@ -811,6 +892,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_xfm1_Power,PowerTransformer and phase is C", 
       "group": 42, 
@@ -821,6 +903,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_634b,EnergyConsumer and phase is B", 
       "group": 42, 
@@ -831,6 +914,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Voltage,PowerTransformer and phase is B", 
       "group": 42, 
@@ -841,6 +925,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632670_Voltage,ACLineSegment and phase is B", 
       "group": 42, 
@@ -851,6 +936,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LoadBreakSwitch_671692_Voltage,LoadBreakSwitch and phase is B", 
       "group": 42, 
@@ -861,6 +947,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "BO", 
       "description": "Equipment is RatioTapChanger_Reg,PowerTransformer and phase is C", 
       "group": 11, 
@@ -871,6 +958,7 @@
       "variation": 1
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_650632_Power,ACLineSegment and phase is B", 
       "group": 42, 
@@ -881,6 +969,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_684611_Power,ACLineSegment and phase is C", 
       "group": 42, 
@@ -891,6 +980,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_692,EnergyConsumer and phase is C", 
       "group": 42, 
@@ -901,6 +991,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_675a,EnergyConsumer and phase is A", 
       "group": 42, 
@@ -911,6 +1002,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LinearShuntCompensator_cap1,LinearShuntCompensator and phase is B", 
       "group": 42, 
@@ -921,6 +1013,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_671,EnergyConsumer and phase is C", 
       "group": 42, 
@@ -931,6 +1024,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "BO", 
       "description": "Equipment is LinearShuntCompensator_cap1,LinearShuntCompensator and phase is C", 
       "group": 11, 
@@ -941,6 +1035,7 @@
       "variation": 1
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_PhotovoltaicUnit_school_PVPanels,PowerElectronicsConnection and phase is C", 
       "group": 42, 
@@ -951,6 +1046,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_645,EnergyConsumer and phase is B", 
       "group": 42, 
@@ -961,6 +1057,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_650632_Power,ACLineSegment and phase is A", 
       "group": 42, 
@@ -971,6 +1068,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LinearShuntCompensator_cap1,LinearShuntCompensator and phase is A", 
       "group": 42, 
@@ -981,6 +1079,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_671684_Power,ACLineSegment and phase is C", 
       "group": 42, 
@@ -991,6 +1090,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_671684_Voltage,ACLineSegment and phase is C", 
       "group": 42, 
@@ -1001,6 +1101,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632670_Power,ACLineSegment and phase is C", 
       "group": 42, 
@@ -1011,6 +1112,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LinearShuntCompensator_cap2,LinearShuntCompensator and phase is C", 
       "group": 42, 
@@ -1021,6 +1123,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_650632_Voltage,ACLineSegment and phase is C", 
       "group": 42, 
@@ -1031,6 +1134,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LoadBreakSwitch_671692_Current,LoadBreakSwitch and phase is C", 
       "group": 42, 
@@ -1041,6 +1145,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632670_Voltage,ACLineSegment and phase is C", 
       "group": 42, 
@@ -1051,6 +1156,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_PhotovoltaicUnit_school_PVPanels,PowerElectronicsConnection and phase is B", 
       "group": 42, 
@@ -1061,6 +1167,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_645646_Voltage,ACLineSegment and phase is B", 
       "group": 42, 
@@ -1071,6 +1178,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_house,EnergyConsumer and phase is s1", 
       "group": 42, 
@@ -1081,6 +1189,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LoadBreakSwitch_671692_Current,LoadBreakSwitch and phase is A", 
       "group": 42, 
@@ -1091,6 +1200,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_692675_Power,ACLineSegment and phase is C", 
       "group": 42, 
@@ -1101,6 +1211,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632633_Voltage,ACLineSegment and phase is C", 
       "group": 42, 
@@ -1111,6 +1222,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632633_Power,ACLineSegment and phase is A", 
       "group": 42, 
@@ -1121,6 +1233,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_675b,EnergyConsumer and phase is B", 
       "group": 42, 
@@ -1131,6 +1244,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_BatteryUnit_school_Cells,PowerElectronicsConnection and phase is C", 
       "group": 42, 
@@ -1141,6 +1255,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_BatteryUnit_school_Cells,PowerElectronicsConnection and phase is A", 
       "group": 42, 
@@ -1151,6 +1266,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_670a,EnergyConsumer and phase is A", 
       "group": 42, 
@@ -1161,6 +1277,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632670_Voltage,ACLineSegment and phase is A", 
       "group": 42, 
@@ -1171,6 +1288,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Power,PowerTransformer and phase is A", 
       "group": 42, 
@@ -1181,6 +1299,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LoadBreakSwitch_671692_Voltage,LoadBreakSwitch and phase is A", 
       "group": 42, 
@@ -1191,6 +1310,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_675c,EnergyConsumer and phase is C", 
       "group": 42, 
@@ -1201,6 +1321,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_670a,EnergyConsumer and phase is A", 
       "group": 42, 
@@ -1211,6 +1332,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_670671_Power,ACLineSegment and phase is C", 
       "group": 42, 
@@ -1221,6 +1343,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_634a,EnergyConsumer and phase is A", 
       "group": 42, 
@@ -1231,6 +1354,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_634c,EnergyConsumer and phase is C", 
       "group": 42, 
@@ -1241,6 +1365,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_646,EnergyConsumer and phase is B", 
       "group": 42, 
@@ -1251,6 +1376,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_house,EnergyConsumer and phase is s2", 
       "group": 42, 
@@ -1261,6 +1387,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_671,EnergyConsumer and phase is A", 
       "group": 42, 
@@ -1271,6 +1398,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_671684_Power,ACLineSegment and phase is A", 
       "group": 42, 
@@ -1281,6 +1409,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_xfm1_Power,PowerTransformer and phase is A", 
       "group": 42, 
@@ -1291,6 +1420,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632633_Voltage,ACLineSegment and phase is A", 
       "group": 42, 
@@ -1301,6 +1431,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_650632_Power,ACLineSegment and phase is C", 
       "group": 42, 
@@ -1311,6 +1442,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_BatteryUnit_school_Cells,PowerElectronicsConnection and phase is A", 
       "group": 42, 
@@ -1321,6 +1453,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_671680_Power,ACLineSegment and phase is B", 
       "group": 42, 
@@ -1331,6 +1464,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_xfm1_Power,PowerTransformer and phase is C", 
       "group": 42, 
@@ -1341,6 +1475,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_671,EnergyConsumer and phase is C", 
       "group": 42, 
@@ -1351,6 +1486,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Voltage,PowerTransformer and phase is C", 
       "group": 42, 
@@ -1361,6 +1497,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is LoadBreakSwitch_671692_Voltage,LoadBreakSwitch and phase is B", 
       "group": 42, 
@@ -1371,6 +1508,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_house,EnergyConsumer and phase is s2", 
       "group": 42, 
@@ -1381,6 +1519,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_634b,EnergyConsumer and phase is B", 
       "group": 42, 
@@ -1391,6 +1530,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_675c,EnergyConsumer and phase is C", 
       "group": 42, 
@@ -1401,6 +1541,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_650632_Voltage,ACLineSegment and phase is A", 
       "group": 42, 
@@ -1411,6 +1552,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Voltage,PowerTransformer and phase is B", 
       "group": 42, 
@@ -1421,6 +1563,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_house,EnergyConsumer and phase is s1", 
       "group": 42, 
@@ -1431,6 +1574,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_646,EnergyConsumer and phase is B", 
       "group": 42, 
@@ -1441,6 +1585,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_692675_Power,ACLineSegment and phase is A", 
       "group": 42, 
@@ -1451,6 +1596,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_692675_Power,ACLineSegment and phase is B", 
       "group": 42, 
@@ -1461,6 +1607,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_692,EnergyConsumer and phase is C", 
       "group": 42, 
@@ -1471,6 +1618,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerTransformer_sub3_Power,PowerTransformer and phase is B", 
       "group": 42, 
@@ -1481,6 +1629,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_BatteryUnit_school_Cells,PowerElectronicsConnection and phase is B", 
       "group": 42, 
@@ -1491,6 +1640,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_PhotovoltaicUnit_school_PVPanels,PowerElectronicsConnection and phase is A", 
       "group": 42, 
@@ -1501,6 +1651,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_BatteryUnit_house_Cells,PowerElectronicsConnection and phase is s2", 
       "group": 42, 
@@ -1511,6 +1662,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is PowerElectronicsConnection_BatteryUnit_house_Cells,PowerElectronicsConnection and phase is s2", 
       "group": 42, 
@@ -1521,6 +1673,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is ACLineSegment_632645_Power,ACLineSegment and phase is B", 
       "group": 42, 
@@ -1531,6 +1684,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AO", 
       "description": "Equipment is EnergyConsumer_611,EnergyConsumer and phase is C", 
       "group": 42, 
@@ -1541,8 +1695,9 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "BI", 
-      "description": "Capacitor, cap1,phase -ABC", 
+      "description": "Capacitor, cap1,phase -A", 
       "group": 2, 
       "index": 0, 
       "measurement_id": "_4DFEE765-62A8-1339-BE70-3378ACC4A3A8", 
@@ -1551,16 +1706,40 @@
       "variation": 1
     }, 
     {
+      "attribute": null, 
+      "data_type": "BI", 
+      "description": "Capacitor, cap1,phase -B", 
+      "group": 2, 
+      "index": 1, 
+      "measurement_id": "_4DFEE765-62A8-1339-BE70-3378ACC4A3A8", 
+      "measurement_type": null, 
+      "name": "cap1", 
+      "variation": 1
+    }, 
+    {
+      "attribute": null, 
+      "data_type": "BI", 
+      "description": "Capacitor, cap1,phase -C", 
+      "group": 2, 
+      "index": 2, 
+      "measurement_id": "_4DFEE765-62A8-1339-BE70-3378ACC4A3A8", 
+      "measurement_type": null, 
+      "name": "cap1", 
+      "variation": 1
+    }, 
+    {
+      "attribute": null, 
       "data_type": "BI", 
       "description": "Capacitor, cap2,phase -C", 
       "group": 2, 
-      "index": 1, 
+      "index": 3, 
       "measurement_id": "_F151E337-356D-D7AB-9215-8BCBDFEC5315", 
       "measurement_type": null, 
       "name": "cap2", 
       "variation": 1
     }, 
     {
+      "attribute": null, 
       "data_type": "AI", 
       "description": "Solarpanel house_PVPanelsphases - BS", 
       "group": 32, 
@@ -1571,6 +1750,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AI", 
       "description": "Solarpanel school_PVPanelsphases - ABC", 
       "group": 32, 
@@ -1581,6 +1761,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AI", 
       "description": "Battery, house_Cellsphases - BS", 
       "group": 32, 
@@ -1591,6 +1772,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AI", 
       "description": "Battery, school_Cellsphases - ABC", 
       "group": 32, 
@@ -1601,16 +1783,18 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "BI", 
       "description": "Switch, 671692phases - ABC", 
       "group": 2, 
-      "index": 2, 
+      "index": 4, 
       "measurement_id": "_DDE4C6BE-8646-5AFE-D6C6-1C7F5F740527", 
       "measurement_type": null, 
       "name": "671692", 
       "variation": 1
     }, 
     {
+      "attribute": null, 
       "data_type": "AI", 
       "description": "Regulator, reg1 phase is  -  A", 
       "group": 32, 
@@ -1621,6 +1805,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AI", 
       "description": "Regulator, reg2 phase is  -  B", 
       "group": 32, 
@@ -1631,6 +1816,7 @@
       "variation": 3
     }, 
     {
+      "attribute": null, 
       "data_type": "AI", 
       "description": "Regulator, reg3 phase is  -  C", 
       "group": 32, 
