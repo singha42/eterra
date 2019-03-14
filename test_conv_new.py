@@ -12,8 +12,21 @@ class dnp3_mapping():
             self.file_dict = json.load(f) 
 		
 	self.out_json= list()
-		
-    def assign_val(self,data_type,group,variation,index,name,description,measurement_type,measurement_id,attribute):
+
+    def assign_val(self,data_type,group,variation,index,name,description,measurement_type,measurement_id):
+        records = dict()
+        records["data_type"] = data_type
+        records["index"] = index
+        records["group"] = group
+        records["variation"] = variation
+        records["description"] = description
+        records["name"] = name
+        records["measurement_type"] = measurement_type
+        records["measurement_id"] = measurement_id
+        self.out_json.append(records)
+
+
+    def assign_valc(self,data_type,group,variation,index,name,description,measurement_type,measurement_id,attribute):
 	records = dict()
 	records["data_type"] = data_type
 	records["index"] = index
@@ -48,10 +61,10 @@ class dnp3_mapping():
 	    description = "Equipment is " + m['name'] + "," + m['ConductingEquipment_type'] + " and phase is " + m['phases']
 					
 	    if m['MeasurementClass'] == "Analog":
-		self.assign_val("AO",42,3,self.c_ao,name,description,measurement_type,measurement_id,None)
+		self.assign_val("AO",42,3,self.c_ao,name,description,measurement_type,measurement_id)
 		self.c_ao += 1
 	    elif m['MeasurementClass'] == "Discrete":
-		self.assign_val("BO",11,1,self.c_bo,name,description,measurement_type,measurement_id,None)
+		self.assign_val("BO",11,1,self.c_bo,name,description,measurement_type,measurement_id)
 		self.c_bo += 1
 		
 	for m in capacitors:
@@ -62,24 +75,24 @@ class dnp3_mapping():
                 phase_value = list(m['phases'])
                 description = "Capacitor, " + m['name'] + "," + "phase -" + phase_value[j]
 	        if "targetDeadband" in capacitors:
-	            self.assign_val("AI",32,3,self.c_ai,name,description,measurement_type,measurement_id,None)
+	            self.assign_valc("AI",32,3,self.c_ai,name,description,measurement_type,measurement_id,None)
 	            self.c_ai += 1
                 else:
-		    self.assign_val("BI",2,1,self.c_bi,name,description,None,measurement_id,None)
+		    self.assign_valc("BI",2,1,self.c_bi,name,description,None,measurement_id,None)
     	            self.c_bi +=1
 		
         for m in solarpanels:
             measurement_id = m.get("mRID")
             name = m.get("name")
             description = "Solarpanel " + m['name'] + "phases - " + m['phases']
-            self.assign_val("AI",32,3,self.c_ai,name,description,None,measurement_id,None)
+            self.assign_val("AI",32,3,self.c_ai,name,description,None,measurement_id)
             self.c_ai +=1
 
         for m in batteries:
             measurement_id = m.get("mRID")
             name = m.get("name")
             description = "Battery, " + m['name'] + "phases - " + m['phases']
-            self.assign_val("AI",32,3,self.c_ai,name,description,None,measurement_id,None)
+            self.assign_val("AI",32,3,self.c_ai,name,description,None,measurement_id)
             self.c_ai +=1    
             
         
@@ -87,7 +100,7 @@ class dnp3_mapping():
 	    measurement_id = m.get("mRID")
 	    name = m.get("name")
 	    description = "Switch, " + m['name'] + "phases - " + m['phases']
-	    self.assign_val("BI",2,1,self.c_bi,name,description,None,measurement_id,None)
+	    self.assign_val("BI",2,1,self.c_bi,name,description,None,measurement_id)
 	    self.c_bi +=1
 			
 	for m in regulators:
@@ -95,7 +108,7 @@ class dnp3_mapping():
 	    for i in range(int(m['size'])):
     	        measurement_id = m.get("mRID")[i]
 		description = "Regulator, " + m['tankName'][i] + " " "phase is  -  " + m['endPhase'][i]
-		self.assign_val("AI",32,3,self.c_ai,name,description,None,measurement_id,None)
+		self.assign_val("AI",32,3,self.c_ai,name,description,None,measurement_id)
 	        self.c_ai +=1
 	
 
