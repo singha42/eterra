@@ -1,6 +1,20 @@
 import json
 
 out_json=list()
+
+
+{attribute_map :[
+"capacitors"[
+{"attribute" : ["RegulatingControl.mode","RegulatingControl.targetDeadband","RegulatingControl.targetValue","ShuntCompensator.aVRDelay","ShuntCompensator.sections"]}
+]
+"switches"[
+{"attribute" : "Switch.open"}
+]
+
+"regulator"[
+{"attribute" : ["RegulatingControl.targetDeadband","RegulatingControl.targetValue", "TapChanger.initialDelay", "TapChanger.step", "TapChanger.lineDropCompensation", "TapChanger.lineDropR","TapChanger.lineDropX"]}
+]]
+}
 		
 class dnp3_mapping():
     def __init__(self,map_file):
@@ -99,9 +113,12 @@ class dnp3_mapping():
         for m in switches:
 	    measurement_id = m.get("mRID")
 	    name = m.get("name")
-	    description = "Switch, " + m['name'] + "phases - " + m['phases']
-	    self.assign_val("BI",2,1,self.c_bi,name,description,None,measurement_id)
-	    self.c_bi +=1
+	    attribute = m.get("attribute")
+	    for k in range(0, len(m['phases'])):
+		phase_value = list(m['phases'])
+		description = "Switch, " + m['name'] + "phases - " + phase_value[k]
+	  	self.assign_val("BI",2,1,self.c_bi,name,description,None,measurement_id,attribute)
+	    	self.c_bi +=1
 			
 	for m in regulators:
 	    name = m.get("bankName")
